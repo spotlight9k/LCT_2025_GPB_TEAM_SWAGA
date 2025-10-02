@@ -9,3 +9,4 @@ classifier_full_model/
 /*__pycache__
 *__pycache__
 *.zip
+nohup.out
