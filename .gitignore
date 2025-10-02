@@ -1,0 +1,11 @@
+.venv
+data/
+classifier_models/
+classifier_results/
+logs/
+logs_full/
+results/
+classifier_full_model/
+/*__pycache__
+*__pycache__
+*.zip
